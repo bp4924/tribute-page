@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  overflow: hidden;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+#image {
+  max-width: 1400px;
+}
