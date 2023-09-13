@@ -11,6 +11,12 @@ header,
 h2 {
   display: flex;
   justify-content: center;
+  padding: 15px;
+}
+
+#show-shot {
+  display: flex;
+  justify-content: center;
 }
 
 #img-div {
@@ -30,6 +36,8 @@ h2 {
   align-items: center;
 }
 
-#tributelink {
-  font-size: larger;
+#tribute-link {
+  font-size: x-large;
+  text-decoration: none;
+  margin-top: 15px;
 }
